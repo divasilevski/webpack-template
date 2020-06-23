@@ -43,6 +43,8 @@
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
-    "normalize.css": "^8.0.1"
+    "express": "^4.17.1",
+    "normalize.css": "^8.0.1",
+    "serve-static": "^1.14.1"
   }
 }
